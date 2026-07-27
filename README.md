@@ -5,6 +5,10 @@ engine specs, fuel type, transmission, and ownership history — trained on
 the [Vehicle Dataset from CarDekho](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 and served through an interactive **Streamlit** app.
 
+[![Live Demo](https://img.shields.io/badge/_Live_Demo-Streamlit-ff4b4b?style=for-the-badge)](https://used-car-price-prediction-v1.streamlit.app/)
+
+**Try it live: [used-car-price-prediction-v1.streamlit.app](https://used-car-price-prediction-v1.streamlit.app/)**
+
 ![App preview](assets/app_preview.png)
 
 ---
@@ -112,6 +116,8 @@ The winning model is auto-selected by R² score and exported to
 
 The app (`app/streamlit_app.py`) loads the exported model artifacts and
 lets a user enter a car's specs to get an instant price estimate.
+
+**Live app: [used-car-price-prediction-v1.streamlit.app](https://used-car-price-prediction-v1.streamlit.app/)**
 
 ![App preview](assets/app_preview.png)
 
