@@ -124,7 +124,7 @@ lets a user enter a car's specs to get an instant price estimate.
 ### Run locally
 
 ```bash
-git clone https://github.com/<your-username>/used-car-price-prediction.git
+git clone https://github.com/muhammed-alaa74/used-car-price-prediction.git
 cd used-car-price-prediction
 pip install -r requirements.txt
 
