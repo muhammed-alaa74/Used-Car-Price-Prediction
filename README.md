@@ -142,13 +142,7 @@ The app will open at `http://localhost:8501`.
 
 ---
 
-## Tech Stack
 
-- **Python 3.12**, **pandas** / **NumPy** for data processing
-- **scikit-learn** & **XGBoost** for modeling
-- **Matplotlib** / **Seaborn** for visualization
-- **Streamlit** for the web app
-- **Jupyter Notebook** for experimentation
 
 ---
 
